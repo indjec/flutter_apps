@@ -141,7 +141,7 @@ class BMIcalculator extends State<Home>{
                 ),),
 
                 new Padding(padding: const EdgeInsets.all(5.0)),
-                new Text("$  _resultReading",
+                new Text("$_resultReading",
                   style: new TextStyle(
                       color: Colors.pink,
                       fontWeight: FontWeight.w500,
